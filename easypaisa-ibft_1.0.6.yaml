@@ -2,7 +2,7 @@ swagger: "2.0"
 info:
   title: EasyPaisa IBFT
   x-ibm-name: easypaisa-ibft
-  version: 1.0.5
+  version: 1.0.6
   description: This APIs related to Jazz cash integration for payment and inquire
     APIs
 host: $(catalog.host)
